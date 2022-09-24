@@ -1,2 +1,2 @@
-hell_redirections
-0x02-shell I/O redirections
+#!/bin/bash
+0x02. Shell, I/O Redirections and filters
